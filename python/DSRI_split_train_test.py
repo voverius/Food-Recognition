@@ -1,7 +1,6 @@
 from collections import defaultdict
 import collections
 import shutil
-import os
 
 # Split the dataset into train and test -> RUN THIS IN TERMINAL
 # Train Data
